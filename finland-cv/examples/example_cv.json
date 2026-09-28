@@ -1,0 +1,56 @@
+{
+  "lang": "en",
+  "name": "Aino Virtanen",
+  "headline": "M.Sc. (Tech.)  |  Supply Chain and Sustainability",
+  "contact": {
+    "location": "Tampere, Finland",
+    "phone": "+358 40 123 4567",
+    "email": "aino.virtanen@example.com",
+    "linkedin": "https://www.linkedin.com/in/example"
+  },
+  "profile": {
+    "tagline": "I help manufacturers cut waste from their supply chains without losing delivery reliability.",
+    "text": "Supply chain specialist with six years of experience in procurement, logistics development and sustainability reporting in Finnish industry. Experienced in leading cross-functional projects between purchasing, production and suppliers."
+  },
+  "competencies": ["Supply Chain Development", "Strategic Sourcing", "Sustainability Reporting (CSRD)", "Supplier Management", "Project Management", "Process Improvement", "Data Analysis"],
+  "experience": [
+    {
+      "title": "Supply Chain Development Manager",
+      "dates": "2022 – present",
+      "org": "Example Industries Oy, Tampere",
+      "description": "Manufacturer of industrial equipment, 800 employees.",
+      "responsibilities": [
+        "Lead a team of four developing supplier performance and logistics processes.",
+        "Own supplier sustainability data collection for the company's CSRD reporting."
+      ],
+      "results": [
+        "Reduced inbound freight costs by 12% by consolidating shipments from 30 suppliers.",
+        "Delivered the first CSRD-aligned supplier emissions dataset on schedule in 2024."
+      ]
+    },
+    {
+      "title": "Purchasing Specialist",
+      "dates": "2019 – 2022",
+      "org": "Sample Components Oy, Helsinki",
+      "responsibilities": [
+        "Managed sourcing of electronic components for three product lines.",
+        "Negotiated annual agreements with key suppliers."
+      ],
+      "results": [
+        "Cut component lead times from 10 to 6 weeks by qualifying two new suppliers."
+      ]
+    }
+  ],
+  "extraSections": [
+    { "heading": "Training and Volunteering", "bullets": ["Mentor in a university career program, 2023 – present."] }
+  ],
+  "education": [
+    { "degree": "M.Sc. (Tech.), Industrial Engineering and Management", "year": "2019", "org": "Tampere University, Finland" }
+  ],
+  "certifications": ["APICS CSCP – Certified Supply Chain Professional, 2021"],
+  "languages": ["Finnish – native", "English – fluent", "Swedish – good"],
+  "skills": [
+    { "label": "Tools", "text": "SAP S/4HANA, Power BI, Excel (advanced), Python (basic)" }
+  ],
+  "referencesOnRequest": true
+}
