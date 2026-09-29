@@ -17,6 +17,8 @@ A Claude skill that builds a CV for the Finnish job market: an editable Word fil
 - Checks the result: page count, text order as a parser sees it, and a visual look at every page
 - Ends by asking you for the numbers (team size, budget, %, EUR) that CV checkers look for
 
+For academic applications (doctoral, postdoc and research posts, Research Council of Finland), use the companion skill: [FinlandCV_Academic](https://github.com/MohaAya/FinlandCV_Academic).
+
 ## Install
 
 **Claude (claude.ai / desktop):** zip the `finland-cv` folder and upload it in Claude's skills settings, or give Claude the link to this repository and ask it to install the skill.
